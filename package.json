@@ -1,0 +1,14 @@
+{
+  "name": "line-bot",
+  "version": "1.0.0",
+  "description": "``` $ git clone git://github.com/nodenv/nodenv.git ~/.nodenv $ git clone https://github.com/nodenv/node-build.git ~/.nodenv/plugins/node-build $ echo 'export PATH=\"$HOME/.nodenv/bin:$PATH\"' >> ~/.zshrc $ echo 'eval \"$(nodenv init -)\"' >> ~/.zshrc $ source ~/.zshrc ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
